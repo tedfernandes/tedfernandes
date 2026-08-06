@@ -1,6 +1,6 @@
 ## Ted Fernandes
 
-![Arquiteto de Soluções](https://img.shields.io/badge/Arquiteto_de_Solu%C3%A7%C3%B5es-334155?style=flat-square) ![UX/UI](https://img.shields.io/badge/UX%2FUI-334155?style=flat-square)
+![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg)
 
 Escrever código deixou de ser a parte difícil. Decidir o que construir continua sendo.
 
