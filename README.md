@@ -5,8 +5,6 @@ Desenho sistemas inteiros: do spec ao deploy, da modelagem de dados ao custo de 
 ### Como eu trabalho
 
 - Spec Driven Development — especificação, plano e contratos antes do código. Rastreabilidade de requisito até teste.
-- Decisões documentadas (ADR) — o "por quê" fica registrado no repositório e sustenta a revisão técnica.
-- Custo e operação dentro do escopo da arquitetura — dimensionamento, limites e sustentabilidade entram no desenho, não depois dele.
 
 ### Competências de arquitetura
 
