@@ -1,28 +1,18 @@
 ## Ted Fernandes — Arquiteto de Soluções
 
-Desenho sistemas inteiros: do spec ao deploy, da modelagem de dados ao custo de operação. Prefiro decisão explicada a stack da moda — toda escolha de arquitetura vira documento versionado, com o trade-off à vista.
+Desenho sistemas do spec ao deploy: modelagem de dados, custo de operação e cada decisão de arquitetura registrada em documento versionado.
 
 ### Como eu trabalho
 
-- Spec Driven Development — especificação, plano e contratos antes do código. Rastreabilidade de requisito até teste.
+Spec Driven Development com rastreabilidade de requisito até teste, decisões registradas em ADR no repositório, e custo e operação dentro do escopo da arquitetura.
 
-### Competências de arquitetura
+### Competências
 
-- Modelagem de dados relacional e migrations versionadas
-- Processamento assíncrono: filas, workers, jobs agendados, idempotência
-- Autenticação, MFA, RBAC e trilha de auditoria
-- Multi-tenant, i18n e acessibilidade como requisito, não como retrabalho
-- Observabilidade: log estruturado, métricas e diagnóstico
-- Dimensionamento e custo: capacidade, limites e orçamento como restrição de projeto
-- Estratégia de testes: unidade, integração, end-to-end e acessibilidade automatizada
+Modelagem relacional e migrations · processamento assíncrono (filas, workers, idempotência) · autenticação com MFA, RBAC e trilha de auditoria · multi-tenant, i18n e acessibilidade · observabilidade · dimensionamento e custo · testes de unidade a end-to-end.
 
 ### Desenvolvimento com IA
 
-- Claude Code no fluxo de especificação, implementação e revisão
-- Servidores MCP para integrar ferramentas e contexto ao ambiente de desenvolvimento
-- Orquestração multiagente para dividir trabalho longo em etapas verificáveis
-- Automação de browser aplicada a testes e tarefas repetitivas
-- Spec Driven Development como guia do trabalho assistido por IA: contrato antes do código, revisão humana antes do merge
+Claude Code no fluxo de especificação, implementação e revisão · servidores MCP · orquestração multiagente em etapas verificáveis · automação de browser para testes e tarefas repetitivas · revisão humana antes do merge.
 
 ### Stack
 
