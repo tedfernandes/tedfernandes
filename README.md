@@ -1,4 +1,4 @@
-## Ted Fernandes — Arquiteto de Soluções
+## Ted Fernandes - Arquiteto de Soluções
 
 Desenho sistemas do spec ao deploy: modelagem de dados, custo de operação e cada decisão de arquitetura registrada em documento versionado.
 
