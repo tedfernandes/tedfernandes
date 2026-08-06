@@ -1,8 +1,6 @@
-## Ted Fernandes
+## Ted Fernandes &nbsp;![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg)
 
-![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg)
-
-Decido a estrutura de dados, as regras, as integrações e como isso vai opera. 
+Decido a estrutura de dados, as regras, as integrações e como isso vai operar.
 
 Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
