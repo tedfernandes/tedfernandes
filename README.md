@@ -2,11 +2,9 @@
 
 ![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg)
 
-Escrever código deixou de ser a parte difícil. Decidir o que construir continua sendo.
+Decido a estrutura de dados, as regras, as integrações e como isso vai opera. 
 
-Meu trabalho começa aí: transformar um objetivo de negócio em um sistema que dê para entender e operar
-
-Desenho as duas pontas. Prefiro tela que explica sozinha, e acessibilidade como requisito, não como ajuste no fim.
+Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
 ### Stack de trabalho
 
