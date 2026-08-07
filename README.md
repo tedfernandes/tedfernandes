@@ -1,3 +1,5 @@
+[![EN](badges/lang-en-on.svg)](README.md) [![PT-BR](badges/lang-pt-off.svg)](README.pt-BR.md)
+
 ## Ted Fernandes &nbsp;![Solutions Architect](badges/solutions-architect.svg) ![UX/UI](badges/ux-ui.svg) ![Full Stack Developer](badges/full-stack.svg?v=3)
 
 I design both ends. Interfaces that explain themselves, security as a requirement rather than an afterthought.
