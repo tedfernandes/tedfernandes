@@ -1,4 +1,4 @@
-## Ted Fernandes &nbsp;![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg)
+## Ted Fernandes &nbsp;![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg) ![Desenvolvedor Full Stack](badges/full-stack.svg)
 
 Decido a estrutura de dados, as regras, as integrações e como isso vai operar.
 
