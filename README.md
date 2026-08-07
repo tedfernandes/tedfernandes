@@ -3,8 +3,8 @@
 Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg?v=2">
-  <img alt="693 mil linhas escritas, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg?v=2" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg">
+  <img alt="693 mil linhas escritas, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg" width="720">
 </picture>
 
 ### Stack principal
@@ -31,8 +31,8 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 I design both ends. Interfaces that explain themselves, security as a requirement rather than an afterthought.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-en-dark.svg?v=2">
-  <img alt="693k lines written, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg?v=2" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-en-dark.svg">
+  <img alt="693k lines written, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg" width="720">
 </picture>
 
 ### Core stack
