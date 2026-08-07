@@ -6,7 +6,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 
 | Camada | O que uso |
 |---|---|
-| **IA** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) ![MCP](badges/mcp.svg) |
+| **IA** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
 | **UX/UI** | ![shadcn/ui](badges/shadcn-ui.svg) ![Radix UI](badges/radix-ui.svg) ![Base UI](badges/base-ui.svg) ![Lucide](badges/lucide.svg) ![Framer Motion](badges/framer-motion.svg) |
 | **Front** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) |
 | **Back & dados** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Redis](badges/redis.svg) ![Prisma](badges/prisma.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
@@ -30,7 +30,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 
 | Layer | What I use |
 |---|---|
-| **AI** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) ![MCP](badges/mcp.svg) |
+| **AI** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
 | **UX/UI** | ![shadcn/ui](badges/shadcn-ui.svg) ![Radix UI](badges/radix-ui.svg) ![Base UI](badges/base-ui.svg) ![Lucide](badges/lucide.svg) ![Framer Motion](badges/framer-motion.svg) |
 | **Front** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) |
 | **Back & data** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Redis](badges/redis.svg) ![Prisma](badges/prisma.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
