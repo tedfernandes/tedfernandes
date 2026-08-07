@@ -18,7 +18,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 Just reach out here.
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/tedfernandes/tedfernandes/main/badges/lang-ptbr.svg" alt="Ler em português"></summary>
+<summary><code>&nbsp;PT-BR&nbsp;</code>&nbsp; ler em português</summary>
 
 <br>
 
