@@ -12,9 +12,8 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 | Camada | O que uso |
 |---|---|
 | **IA** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
-| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
-| **Back-end e dados** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
-| **Mídia** | ![FFmpeg](badges/ffmpeg.svg) ![Remotion](badges/remotion.svg) |
+| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) ![Remotion](badges/remotion.svg) |
+| **Back-end e dados** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) ![FFmpeg](badges/ffmpeg.svg) |
 | **Ambiente e ferramentas** | ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
 
 ### Contato
@@ -40,9 +39,8 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 | Layer | What I use |
 |---|---|
 | **AI** | ![Claude Code](badges/claude-code.svg) ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
-| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
-| **Back-end & data** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
-| **Media** | ![FFmpeg](badges/ffmpeg.svg) ![Remotion](badges/remotion.svg) |
+| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) ![Remotion](badges/remotion.svg) |
+| **Back-end & data** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) ![FFmpeg](badges/ffmpeg.svg) |
 | **Environment & tooling** | ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
 
 ### Contact
