@@ -1,7 +1,5 @@
 ## Ted Fernandes &nbsp;![Arquiteto de Soluções](badges/arquiteto-de-solucoes.svg) ![UX/UI](badges/ux-ui.svg) ![Dev Full Stack](badges/full-stack.svg?v=2)
 
-Decido a estrutura de dados, as regras, as integrações e como isso vai operar.
-
 Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
 ### Stack de trabalho
