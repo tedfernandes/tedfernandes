@@ -7,7 +7,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
   <img alt="693 mil linhas escritas, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg" width="720">
 </picture>
 
-### Stack de trabalho
+### Stack principal
 
 | Camada | O que uso |
 |---|---|
@@ -35,7 +35,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
   <img alt="693k lines written, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg" width="720">
 </picture>
 
-### Stack
+### Core stack
 
 | Layer | What I use |
 |---|---|
