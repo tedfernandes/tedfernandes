@@ -2,25 +2,6 @@
 
 Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg">
-  <img alt="693 mil linhas escritas, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg" width="720">
-</picture>
-
-### Stack principal
-
-| Camada | O que uso |
-|---|---|
-| **IA no produto** | ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
-| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
-| **Back-end** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
-| **Dados** | ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) |
-| **Ambiente e ferramentas** | ![Claude Code](badges/claude-code.svg) ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
-
-### Contato
-
-É só chamar por aqui.
-
 <details>
 <summary><code>&nbsp;EN&nbsp;</code>&nbsp; read in English</summary>
 
@@ -32,12 +13,12 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-en-dark.svg">
-  <img alt="693k lines written, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg" width="720">
+  <img alt="693k lines of code across 21 of my own projects, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg" width="720">
 </picture>
 
-### Core stack
+### Stack
 
-| Layer | What I use |
+| | |
 |---|---|
 | **AI in the product** | ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
 | **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
@@ -45,8 +26,23 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 | **Data** | ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) |
 | **Environment & tooling** | ![Claude Code](badges/claude-code.svg) ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
 
-### Contact
-
 Just reach out here.
 
 </details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg">
+  <img alt="693 mil linhas de código em 21 projetos próprios, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg" width="720">
+</picture>
+
+### Stack
+
+| | |
+|---|---|
+| **IA no produto** | ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
+| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
+| **Back-end** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
+| **Dados** | ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) |
+| **Ambiente e ferramentas** | ![Claude Code](badges/claude-code.svg) ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
+
+É só chamar por aqui.
