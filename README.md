@@ -18,12 +18,12 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
   <td><img src="badges/nodejs.svg" alt="Node.js" align="absmiddle"> <img src="badges/python.svg" alt="Python" align="absmiddle"> <img src="badges/fastapi.svg" alt="FastAPI" align="absmiddle"> <img src="badges/authjs.svg" alt="Auth.js" align="absmiddle"> <img src="badges/zod.svg" alt="Zod" align="absmiddle"></td>
 </tr>
 <tr>
-  <td><strong>Dados</strong></td>
-  <td><img src="badges/postgresql.svg" alt="PostgreSQL" align="absmiddle"> <img src="badges/neon.svg" alt="Neon" align="absmiddle"> <img src="badges/redis.svg" alt="Redis" align="absmiddle"></td>
+  <td><strong>Dados e infra</strong></td>
+  <td><img src="badges/postgresql.svg" alt="PostgreSQL" align="absmiddle"> <img src="badges/neon.svg" alt="Neon" align="absmiddle"> <img src="badges/redis.svg" alt="Redis" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Ambiente</strong></td>
-  <td><img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"></td>
+  <td><img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Ferramentas</strong></td>
@@ -58,12 +58,12 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
   <td><img src="badges/nodejs.svg" alt="Node.js" align="absmiddle"> <img src="badges/python.svg" alt="Python" align="absmiddle"> <img src="badges/fastapi.svg" alt="FastAPI" align="absmiddle"> <img src="badges/authjs.svg" alt="Auth.js" align="absmiddle"> <img src="badges/zod.svg" alt="Zod" align="absmiddle"></td>
 </tr>
 <tr>
-  <td><strong>Data</strong></td>
-  <td><img src="badges/postgresql.svg" alt="PostgreSQL" align="absmiddle"> <img src="badges/neon.svg" alt="Neon" align="absmiddle"> <img src="badges/redis.svg" alt="Redis" align="absmiddle"></td>
+  <td><strong>Data &amp; infra</strong></td>
+  <td><img src="badges/postgresql.svg" alt="PostgreSQL" align="absmiddle"> <img src="badges/neon.svg" alt="Neon" align="absmiddle"> <img src="badges/redis.svg" alt="Redis" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Environment</strong></td>
-  <td><img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"></td>
+  <td><img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Tooling</strong></td>
