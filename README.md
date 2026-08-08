@@ -11,7 +11,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 </tr>
 <tr>
   <td><strong>Front-end</strong></td>
-  <td><img src="badges/nextjs.svg" alt="Next.js" align="absmiddle"> <img src="badges/react.svg" alt="React" align="absmiddle"> <img src="badges/typescript.svg" alt="TypeScript" align="absmiddle"> <img src="badges/tailwind.svg" alt="Tailwind" align="absmiddle"> <img src="badges/shadcn-ui.svg" alt="shadcn/ui" align="absmiddle"></td>
+  <td><img src="badges/nextjs.svg" alt="Next.js" align="absmiddle"> <picture><source media="(max-width: 500px)" srcset="badges/_teste-media.svg"><img src="badges/react.svg" alt="React" align="absmiddle"></picture> <img src="badges/typescript.svg" alt="TypeScript" align="absmiddle"> <img src="badges/tailwind.svg" alt="Tailwind" align="absmiddle"> <img src="badges/shadcn-ui.svg" alt="shadcn/ui" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Back-end</strong></td>
