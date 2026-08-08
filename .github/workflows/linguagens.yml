@@ -1,0 +1,64 @@
+name: Atualiza o gráfico de linguagens
+
+# Remede o código dos repositórios da conta e redesenha a faixa do README.
+# O dado é vivo, mas a entrega continua estática: o SVG é commitado, então o
+# perfil não passa a depender de nenhum serviço externo em tempo de leitura.
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'      # dia 1 de cada mês, 06:00 UTC
+  workflow_dispatch:          # e um botão manual na aba Actions
+
+permissions:
+  contents: write             # só o suficiente para commitar neste repositório
+
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Clonar os repositórios
+        env:
+          # PAT fine-grained, somente leitura de Contents. O GITHUB_TOKEN padrão
+          # não serve aqui: ele só enxerga o repositório onde a Action roda.
+          GH_TOKEN: ${{ secrets.PAT_LEITURA }}
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/fontes
+          gh repo list "${GITHUB_REPOSITORY_OWNER}" --limit 100 --no-archived \
+            --json name,isFork --jq '.[] | select(.isFork==false) | .name' \
+            | grep -v "^${GITHUB_REPOSITORY_OWNER}$" \
+            | while read -r repo; do
+                if git clone --depth 1 --quiet \
+                     "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY_OWNER}/${repo}.git" \
+                     "/tmp/fontes/${repo}" 2>/dev/null; then
+                  echo "  clonou  ${repo}"
+                else
+                  echo "  PULOU   ${repo}"
+                fi
+              done
+          echo "repositórios obtidos: $(ls /tmp/fontes | wc -l)"
+
+      - name: Medir e redesenhar
+        run: |
+          set -euo pipefail
+          node scripts/contar.mjs /tmp/fontes > /tmp/dados.json
+          node scripts/graficos.mjs /tmp/dados.json
+
+      - name: Commitar se mudou
+        run: |
+          set -euo pipefail
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add charts/
+          if git diff --cached --quiet; then
+            echo "nenhuma mudança — nada a commitar"
+            exit 0
+          fi
+          git commit -m "gráfico: remedição automática de linguagens"
+          git push

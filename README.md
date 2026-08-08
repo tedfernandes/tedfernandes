@@ -4,7 +4,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg">
-  <img alt="693 mil linhas de código em 21 projetos próprios, por linguagem: TypeScript 82,9%, Python 12,2%, JavaScript 2,4%, CSS 1,3%, SQL 1,2%" src="charts/linguagens-light.svg" width="720">
+  <img alt="259 mil linhas em 11 repositórios, por linguagem: TypeScript 84,2%, Python 12,4%, CSS 1,5%, JavaScript 1,4%, SQL 0,5%" src="charts/linguagens-light.svg" width="720">
 </picture>
 
 ### Stack
@@ -30,7 +30,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-en-dark.svg">
-  <img alt="693k lines of code across 21 of my own projects, by language: TypeScript 82.9%, Python 12.2%, JavaScript 2.4%, CSS 1.3%, SQL 1.2%" src="charts/linguagens-en-light.svg" width="720">
+  <img alt="259k lines across 11 repositories, by language: TypeScript 84.2%, Python 12.4%, CSS 1.5%, JavaScript 1.4%, SQL 0.5%" src="charts/linguagens-en-light.svg" width="720">
 </picture>
 
 ### Stack
