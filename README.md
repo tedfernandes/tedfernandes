@@ -2,20 +2,30 @@
 
 Desenho as duas pontas. Interface que se explica sozinha, segurança como requisito e não como ajuste no fim.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-dark.svg">
-  <img alt="259 mil linhas em 11 repositórios, por linguagem: TypeScript 84,2%, Python 12,4%, CSS 1,5%, JavaScript 1,4%, SQL 0,5%" src="charts/linguagens-light.svg" width="720">
-</picture>
-
 ### Stack
 
-| | |
-|---|---|
-| **IA no produto** | ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
-| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
-| **Back-end** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
-| **Dados** | ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) |
-| **Ambiente e ferramentas** | ![Claude Code](badges/claude-code.svg) ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
+<table>
+<tr>
+  <td><strong>IA no produto</strong></td>
+  <td><img src="badges/claude-api.svg" alt="Claude API"> <img src="badges/ai-sdk.svg" alt="AI SDK"></td>
+</tr>
+<tr>
+  <td><strong>Front-end</strong></td>
+  <td><img src="badges/nextjs.svg" alt="Next.js"> <img src="badges/react.svg" alt="React"> <img src="badges/typescript.svg" alt="TypeScript"> <img src="badges/tailwind.svg" alt="Tailwind"> <img src="badges/shadcn-ui.svg" alt="shadcn/ui"></td>
+</tr>
+<tr>
+  <td><strong>Back-end</strong></td>
+  <td><img src="badges/nodejs.svg" alt="Node.js"> <img src="badges/python.svg" alt="Python"> <img src="badges/fastapi.svg" alt="FastAPI"> <img src="badges/authjs.svg" alt="Auth.js"> <img src="badges/zod.svg" alt="Zod"></td>
+</tr>
+<tr>
+  <td><strong>Dados</strong></td>
+  <td><img src="badges/postgresql.svg" alt="PostgreSQL"> <img src="badges/neon.svg" alt="Neon"> <img src="badges/redis.svg" alt="Redis"></td>
+</tr>
+<tr>
+  <td><strong>Ambiente e ferramentas</strong></td>
+  <td><img src="badges/claude-code.svg" alt="Claude Code"> <img src="badges/docker.svg" alt="Docker"> <img src="badges/vercel.svg" alt="Vercel"> <img src="badges/vitest.svg" alt="Vitest"> <img src="badges/playwright.svg" alt="Playwright"></td>
+</tr>
+</table>
 
 É só chamar por aqui.
 
@@ -28,20 +38,30 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 
 I design both ends. Interfaces that explain themselves, security as a requirement rather than an afterthought.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/linguagens-en-dark.svg">
-  <img alt="259k lines across 11 repositories, by language: TypeScript 84.2%, Python 12.4%, CSS 1.5%, JavaScript 1.4%, SQL 0.5%" src="charts/linguagens-en-light.svg" width="720">
-</picture>
-
 ### Stack
 
-| | |
-|---|---|
-| **AI in the product** | ![Claude API](badges/claude-api.svg) ![AI SDK](badges/ai-sdk.svg) |
-| **Front-end** | ![Next.js](badges/nextjs.svg) ![React](badges/react.svg) ![TypeScript](badges/typescript.svg) ![Tailwind](badges/tailwind.svg) ![shadcn/ui](badges/shadcn-ui.svg) |
-| **Back-end** | ![Node.js](badges/nodejs.svg) ![Python](badges/python.svg) ![FastAPI](badges/fastapi.svg) ![Auth.js](badges/authjs.svg) ![Zod](badges/zod.svg) |
-| **Data** | ![PostgreSQL](badges/postgresql.svg) ![Neon](badges/neon.svg) ![Redis](badges/redis.svg) |
-| **Environment & tooling** | ![Claude Code](badges/claude-code.svg) ![Docker](badges/docker.svg) ![Vercel](badges/vercel.svg) ![Vitest](badges/vitest.svg) ![Playwright](badges/playwright.svg) |
+<table>
+<tr>
+  <td><strong>AI in the product</strong></td>
+  <td><img src="badges/claude-api.svg" alt="Claude API"> <img src="badges/ai-sdk.svg" alt="AI SDK"></td>
+</tr>
+<tr>
+  <td><strong>Front-end</strong></td>
+  <td><img src="badges/nextjs.svg" alt="Next.js"> <img src="badges/react.svg" alt="React"> <img src="badges/typescript.svg" alt="TypeScript"> <img src="badges/tailwind.svg" alt="Tailwind"> <img src="badges/shadcn-ui.svg" alt="shadcn/ui"></td>
+</tr>
+<tr>
+  <td><strong>Back-end</strong></td>
+  <td><img src="badges/nodejs.svg" alt="Node.js"> <img src="badges/python.svg" alt="Python"> <img src="badges/fastapi.svg" alt="FastAPI"> <img src="badges/authjs.svg" alt="Auth.js"> <img src="badges/zod.svg" alt="Zod"></td>
+</tr>
+<tr>
+  <td><strong>Data</strong></td>
+  <td><img src="badges/postgresql.svg" alt="PostgreSQL"> <img src="badges/neon.svg" alt="Neon"> <img src="badges/redis.svg" alt="Redis"></td>
+</tr>
+<tr>
+  <td><strong>Environment &amp; tooling</strong></td>
+  <td><img src="badges/claude-code.svg" alt="Claude Code"> <img src="badges/docker.svg" alt="Docker"> <img src="badges/vercel.svg" alt="Vercel"> <img src="badges/vitest.svg" alt="Vitest"> <img src="badges/playwright.svg" alt="Playwright"></td>
+</tr>
+</table>
 
 Just reach out here.
 
