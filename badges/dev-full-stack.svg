@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="98" height="24" role="img" aria-label="Dev Full Stack">
   <title>Dev Full Stack</title>
-  <rect width="98" height="24" rx="6" fill="#334155"/>
-  <text x="49" y="16" fill="#ffffff" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12">Dev Full Stack</text>
+  <rect x="0.5" y="0.5" rx="5.5" width="97" height="23" fill="#334155" fill-opacity="0.16" stroke="#484f58" stroke-opacity="0.9" stroke-width="1"/>
+  <text x="49" y="16" fill="#707a88" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12">Dev Full Stack</text>
 </svg>
