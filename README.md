@@ -7,7 +7,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 <table>
 <tr>
   <td><strong>IA no produto</strong></td>
-  <td><img src="badges/claude-api.svg" alt="Claude API" align="absmiddle"> <img src="badges/ai-sdk.svg" alt="AI SDK" align="absmiddle"></td>
+  <td><img src="badges/anthropic-api.svg" alt="Anthropic API" align="absmiddle"> <img src="badges/groq.svg" alt="Groq" align="absmiddle"> <img src="badges/whisper.svg" alt="Whisper" align="absmiddle"> <img src="badges/ai-sdk.svg" alt="AI SDK" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Front-end</strong></td>
@@ -47,7 +47,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 <table>
 <tr>
   <td><strong>AI in the product</strong></td>
-  <td><img src="badges/claude-api.svg" alt="Claude API" align="absmiddle"> <img src="badges/ai-sdk.svg" alt="AI SDK" align="absmiddle"></td>
+  <td><img src="badges/anthropic-api.svg" alt="Anthropic API" align="absmiddle"> <img src="badges/groq.svg" alt="Groq" align="absmiddle"> <img src="badges/whisper.svg" alt="Whisper" align="absmiddle"> <img src="badges/ai-sdk.svg" alt="AI SDK" align="absmiddle"></td>
 </tr>
 <tr>
   <td><strong>Front-end</strong></td>
