@@ -23,7 +23,7 @@ Desenho as duas pontas. Interface que se explica sozinha, segurança como requis
 </tr>
 <tr>
   <td><strong>Ambiente e ferramentas</strong></td>
-  <td><img src="badges/claude-code.svg" alt="Claude Code" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"> <img src="badges/vitest.svg" alt="Vitest" align="absmiddle"> <img src="badges/playwright.svg" alt="Playwright" align="absmiddle"></td>
+  <td><img src="badges/claude-code.svg" alt="Claude Code" align="absmiddle"> <img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"> <img src="badges/vitest.svg" alt="Vitest" align="absmiddle"> <img src="badges/playwright.svg" alt="Playwright" align="absmiddle"></td>
 </tr>
 </table>
 
@@ -59,7 +59,7 @@ I design both ends. Interfaces that explain themselves, security as a requiremen
 </tr>
 <tr>
   <td><strong>Environment &amp; tooling</strong></td>
-  <td><img src="badges/claude-code.svg" alt="Claude Code" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"> <img src="badges/vitest.svg" alt="Vitest" align="absmiddle"> <img src="badges/playwright.svg" alt="Playwright" align="absmiddle"></td>
+  <td><img src="badges/claude-code.svg" alt="Claude Code" align="absmiddle"> <img src="badges/github.svg" alt="GitHub" align="absmiddle"> <img src="badges/docker.svg" alt="Docker" align="absmiddle"> <img src="badges/cloudflare.svg" alt="Cloudflare" align="absmiddle"> <img src="badges/vercel.svg" alt="Vercel" align="absmiddle"> <img src="badges/vitest.svg" alt="Vitest" align="absmiddle"> <img src="badges/playwright.svg" alt="Playwright" align="absmiddle"></td>
 </tr>
 </table>
 
